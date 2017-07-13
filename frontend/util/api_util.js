@@ -4,5 +4,5 @@ export const fetchAllPokemon = () => {
       method: "GET",
       url: '/api/pokemon'
     })
-  )
-}
+  );
+};

@@ -9,7 +9,7 @@ const pokemonReducer = (state = {}, action) => {
     default:
       return state;
   }
-}
+};
 
 
 export default pokemonReducer;
